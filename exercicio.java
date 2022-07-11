@@ -3,7 +3,6 @@ import java.util.*;
 
 public class exercicio {
     public static void main(String args[]) {
-        //List<Integer> list = new ArrayList<Integer>();
         Scanner reader = new Scanner(System.in).useDelimiter("[,\\s+]");  // le os valores passados em forma de varios valores em uma linha separados por virgula
         System.out.print("Entre com os valores:");
 
